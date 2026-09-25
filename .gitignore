@@ -1,0 +1,11 @@
+# Private world data and local runtime
+/world/
+/runtime/
+*.log
+*.pid
+node_modules/
+.env
+.env.*
+*.zip
+.DS_Store
+Thumbs.db

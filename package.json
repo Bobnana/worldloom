@@ -1,0 +1,8 @@
+{
+  "name": "worldloom",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A local worldbuilding workspace. No account, cloud, or dependencies.",
+  "scripts": { "start": "node server.mjs", "test": "node --test tests/*.test.mjs" },
+  "type": "module"
+}
